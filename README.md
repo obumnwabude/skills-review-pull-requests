@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Review pull requests with Obum
+# Review pull requests with Obumuneme Nwabude
 
 _Collaborate and work together on GitHub._
 
